@@ -28,3 +28,5 @@ class Bank:
 
     print(__name__+"Hello")
 # if __name__=="__main__":
+
+test
